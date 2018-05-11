@@ -1,0 +1,2 @@
+inpStr=input('Enter a sequence of comma separated numbers')
+print(inpStr.split())
